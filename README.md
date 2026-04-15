@@ -4,19 +4,19 @@ This project analyses customer shopping behavior using transactional data to ide
 
 Tools Used:
 Python (Pandas)
-SQL (PostgreSQL)
+SQL
 Power BI
 
 Key Work:
-Data cleaning and preprocessing using Python
-Business analysis using SQL queries
-Interactive dashboard creation in Power BI
+Data cleaning and preprocessing using Python.
+Business analysis using SQL queries.
+Interactive dashboard creation in Power BI.
 
 Insights:
-High-value customers and loyal segments identified
-Subscription users tend to spend more
-Discounts influence purchasing behavior
-Top-performing products and categories analysed
+High-value customers and loyal segments identified.
+Subscription users tend to spend more.
+Discounts influence purchasing behavior.
+Top-performing products and categories analysed.
 
 Files Included:
 Dataset
